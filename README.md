@@ -3,9 +3,11 @@
 # Open Anime API
 
 A lightweight, high-performance, self-configuring streaming API wrapper designed to compile, cache, and serve anime media resources dynamically. 
-
 This project integrates metadata aggregation and on-demand Puppeteer scraping tools to provide a seamless interface for web applications.
 
+Open Anime API is a next-generation, developer-focused, open-source anime streaming and metadata database engine. It acts as an intelligent middleware between anime frontends and public metadata indexes (like MyAnimeList via the Jikan API).
+
+By deploying headless browsers in the background, it scrapes, extracts, and resolves compatible video player streams (Sub/Dub) and P2P torrent download links in real-time. With a plug-and-play setup, it automatically self-configures local databases or Supabase cloud caches to ensure sub-millisecond response times for cached links, creating the perfect foundation for custom anime applications.
 ---
 
 ## 📡 Live Preview

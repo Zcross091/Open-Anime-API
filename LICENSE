@@ -1,15 +1,15 @@
-ACADEMIC PROPRIETARY LICENSE & COPYRIGHT NOTICE
+OPEN ANIME API CUSTOM LICENSE
 
-Copyright (c) 2026 Zcross091. All Rights Reserved.
+1. FREE PUBLIC USE
+This repository (Open Anime API) is completely open for public use. You are highly encouraged to copy this code, deploy it, and use it freely as the backend engine for your own anime streaming website or application.
 
-1. ACADEMIC AND RESEARCH USE ONLY
-This software is developed strictly as a private, educational research project (Project of the Year) for academic evaluation. It is not intended for commercial distribution or public operational use.
+2. MODIFICATION & CONTRIBUTION RULES
+While you are free to use the code as-is, any and all modifications to the source code must be contributed back to the main project:
+- If you wish to modify the code, you must do so by submitting a Pull Request (PR) or formal request to this repository.
+- Your modifications must strictly follow the existing code structure and formatting conventions.
+- Your modifications must exclusively be for the purpose of improving the API (e.g., adding new features, optimizing performance, fixing bugs, or adding new providers). 
 
-2. CONTENT NOTCE & DISCLAIMER
-This software performs crawling and indexing operations using public internet sources. The developers do not host, store, stream, or distribute any copyrighted media files. All resolved streaming data is the result of public indexing.
+If you do not wish to contribute your improvements back to the project under these terms, you are restricted to using the code exactly as it is provided.
 
-3. PROPRIETARY AND NON-MODIFIABLE
-No individual or entity is authorized to copy, modify, distribute, publish, sublicense, or sell this software, or any portion thereof. The code remains strictly private and proprietary to the original author.
-
-4. EXEMPTION FROM INTELLECTUAL PROPERTY CLAIMS
-Because this software serves as a private, non-commercial university research paper component, it is fully protected under global academic "Fair Use" copyright exemptions. Any legal inquiries or DMCA takedown requests will be contested under university academic research protections.
+3. DMCA & COPYRIGHT CLAIMS
+Any and all DMCA claims directed at this repository are fundamentally invalid and will be summarily rejected. This code is an automated metadata aggregator and web scraper. It DOES NOT host, upload, store, or distribute any copyrighted anime, manga, or media of any kind. Any DMCA claims submitted against this software are legally baseless and will be heavily contested as fraudulent.

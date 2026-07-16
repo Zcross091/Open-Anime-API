@@ -57,5 +57,5 @@ node fillDB.js "Anime Title"
 ## ⚖️ Academic License & Exemption
 * **Project Nature:** This repository represents an academic **Project of the Year** created solely for private, educational research and engineering studies.
 * **Content Indexing:** All anime stream URLs and metadata resolved by this API represent index results compiled courtesy of public networks and search assistance. No copyright content is hosted, owned, or stored directly on this server.
-* **Usage Restrictions:** The core API structure, custom controllers, and codebase are strictly proprietary. **This code cannot be modified, redistributed, or reproduced by any other parties.**
+* **Usage Restrictions:** The core API structure, custom controllers, and codebase are OPEN-SOURCE. **If you want to commit changes then please follow my code Lines.**
 * **DMCA Notice:** Anti-piracy, copyright enforcement, and DMCA claims do not apply under global **Fair Use academic exemptions** for private student research. Any attempts to target this repository will be contested under legal academic protections.
